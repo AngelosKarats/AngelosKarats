@@ -1,2 +1,2 @@
-- 🌱 I’m currently studying for my Master's Degree in Business and Data Analytics
+- 🌱 I’m currently studying for my **Master's Degree in Business and Data Analytics**
 - 📫 How to reach me: https://www.linkedin.com/in/aggelos-karatsis-309685167/
