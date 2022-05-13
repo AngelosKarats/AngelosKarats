@@ -1,3 +1,4 @@
+# Junior Data Analyst
 - 🌱 I’m currently studying for my **Master's Degree in Business and Data Analytics**
 - 👨‍💻 Projects: https://AngelosKaratsis.github.io
 
