@@ -1,5 +1,5 @@
 - 🌱 I’m currently studying for my **Master's Degree in Business and Data Analytics**
-- 👨‍💻 Projects: AngelosKaratsis.github.io
+- 👨‍💻 Projects: https://github.com/AngelosKarats/AngelosKaratsis.github.io
 
 ## Connect with me:
 
