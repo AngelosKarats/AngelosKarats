@@ -9,6 +9,6 @@
 
 # Languages and Tools:
 
-[<img align="left" alt="Python | Python" width="30px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw1RfF3z8z4PldzdfxHjtuZM&ust=1652529843030000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCqz8S33PcCFQAAAAAdAAAAABAD" />][Python]
+[<img align="left" alt="Python | Python" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cppng.com%2Ffreepng%2F35368%2F&psig=AOvVaw1RfF3z8z4PldzdfxHjtuZM&ust=1652529843030000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCqz8S33PcCFQAAAAAdAAAAABAI"][Python]
 
 [Python]:python.org
