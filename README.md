@@ -2,4 +2,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/karatsis-angelos/
 
 
-#Connect with me:
+# Connect with me:
