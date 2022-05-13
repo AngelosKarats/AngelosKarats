@@ -11,4 +11,4 @@
 
 [<img align="left" alt="Python | Python" width="30px" src="https://img.cppng.com/download/2020-06/7-2-python-logo-free-download-png.png"/>][Python]
 
-[Python]:python.org
+[Python]:https://www.python.org/
